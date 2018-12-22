@@ -1,0 +1,5 @@
+﻿  NonBlockingCommunication.cpp
+c1xx : warning C4199: la recherche de nom en deux phases n'est pas prise en charge pour C++/CLI, C++/CX ou OpenMP ; utilisez /Zc:twoPhase-
+c:\users\yannis\desktop\master\programmation\mpi\perso\mpi-test\nonblockingcommunication\nonblockingcommunication.cpp(15): warning C4101: 'pause' : variable locale non référencée
+c:\users\yannis\desktop\master\programmation\mpi\perso\mpi-test\nonblockingcommunication\nonblockingcommunication.cpp(12): warning C4101: 'pi' : variable locale non référencée
+  NonBlockingCommunication.vcxproj -> C:\Users\Yannis\Desktop\Master\Programmation\MPI\Perso\MPI-Test\Debug\NonBlockingCommunication.exe

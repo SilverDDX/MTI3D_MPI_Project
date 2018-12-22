@@ -1,0 +1,6 @@
+﻿  pch.cpp
+c1xx : warning C4199: la recherche de nom en deux phases n'est pas prise en charge pour C++/CLI, C++/CX ou OpenMP ; utilisez /Zc:twoPhase-
+  ReduceExample.cpp
+c1xx : warning C4199: la recherche de nom en deux phases n'est pas prise en charge pour C++/CLI, C++/CX ou OpenMP ; utilisez /Zc:twoPhase-
+c:\users\yannis\desktop\master\programmation\mpi\perso\mpi-test\mpi-test\reduceexample.cpp(15): warning C4101: 'rank' : variable locale non référencée
+  MPI-Test.vcxproj -> C:\Users\Yannis\Desktop\Master\Programmation\MPI\Perso\MPI-Test\Debug\MPI-Test.exe
